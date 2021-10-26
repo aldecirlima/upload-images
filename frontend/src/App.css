@@ -1,0 +1,16 @@
+.App {
+  text-align: left;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.form-radio {
+  display: flex;
+  flex-direction: column;
+}
+
+.dados-form {
+  margin: 5px 0px;
+}
